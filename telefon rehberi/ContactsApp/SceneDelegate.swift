@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  ContactsApp
 //
-//  Created by mehmet kahraman on 12.04.2025.
+//  Created by emin iyigün on 12.04.2025.
 //
 
 import UIKit
